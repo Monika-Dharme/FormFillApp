@@ -17,6 +17,10 @@
     <input type="Name" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
+     <label for="surname"><b>Password</b></label>
+    <input type="surname" placeholder="surname" name="surname" id="surname" required>
+    <br>
+
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
