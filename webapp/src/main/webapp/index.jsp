@@ -13,11 +13,11 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="Name"><b>Password</b></label>
+    <label for="Name"><b>Name</b></label>
     <input type="Name" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-     <label for="surname"><b>Password</b></label>
+     <label for="surname"><b>surname</b></label>
     <input type="surname" placeholder="surname" name="surname" id="surname" required>
     <br>
 
